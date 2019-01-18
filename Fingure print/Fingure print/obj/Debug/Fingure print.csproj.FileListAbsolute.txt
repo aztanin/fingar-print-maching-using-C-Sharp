@@ -1,0 +1,9 @@
+E:\Mobin\Fingure print\Fingure print\bin\Debug\Fingure print.exe.config
+E:\Mobin\Fingure print\Fingure print\bin\Debug\Fingure print.exe
+E:\Mobin\Fingure print\Fingure print\bin\Debug\Fingure print.pdb
+E:\Mobin\Fingure print\Fingure print\obj\Debug\Fingure print.csprojResolveAssemblyReference.cache
+E:\Mobin\Fingure print\Fingure print\obj\Debug\Fingure_print.Form1.resources
+E:\Mobin\Fingure print\Fingure print\obj\Debug\Fingure_print.Properties.Resources.resources
+E:\Mobin\Fingure print\Fingure print\obj\Debug\Fingure print.csproj.GenerateResource.Cache
+E:\Mobin\Fingure print\Fingure print\obj\Debug\Fingure print.exe
+E:\Mobin\Fingure print\Fingure print\obj\Debug\Fingure print.pdb
